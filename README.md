@@ -1,4 +1,4 @@
-# Online-Books-Reselling-Portal
+# Online-Books-Reselling-Portal - A Great Place For Book Lovers!
 ## Problem Definition
 Design a database for online book re-selling portal to buy or sell second hand books and get recommendations of books for a particular subject.
 
